@@ -1,0 +1,13 @@
+[
+    {
+        "studentName": "Geek",
+        "studentSurname": "Tech",
+        "studentImage": "person.fill"
+    },
+    {
+        "studentName": "John",
+        "studentSurname": "Doe",
+        "studentImage": "person.fill"
+    },
+    
+]
